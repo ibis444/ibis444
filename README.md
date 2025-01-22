@@ -1,7 +1,8 @@
 
 <h2 align="left">Hi 👋! My name is Ibrahim, and I'm a Full Stack Developer from Azerbaijan.</h2>
 
-<img src="[https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://i.redd.it/n8agw6z2smyb1.gif)" alt="Coding GIF" width="100%" height="auto"/>
+<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Coding GIF" width="100%" height="auto"/>
+
 
 
 
